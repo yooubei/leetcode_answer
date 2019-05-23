@@ -11,14 +11,17 @@ github功能有限，我们开发了算法学习的小程序，方便大家学�
 
 1. 每个题目详细解题报告
 2. 每个题目的top5答案 
-3. 收藏和标记功能
+3. 题目收藏和标记功能
 4. 题目按照标签和公司分类  
 
    
 
-#### 小程序二维码  
+### 小程序二维码  
+
+
 打开微信扫一扫  
-![](https://zdsfiles.oss-cn-beijing.aliyuncs.com/gh_883d0218850f_258.jpg)   
+
+![](https://github.com/yooubei/leetcode_sol/blob/master/jpg/gh_883d0218850f_258.jpg)   
      
         
           
